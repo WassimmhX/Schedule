@@ -83,7 +83,7 @@ A modern, comprehensive web application for managing and visualizing academic sc
 ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
 │             │       │             │       │             │
 │  Frontend   │◄─────►│   Backend   │◄─────►│  Database   │
-│  (React)    │       │  (FastAPI)  │       │  (MongoDB)  │
+│  (Next.js)    │       │  (FastAPI)  │       │  (MongoDB)  │
 │             │       │             │       │             │
 └─────────────┘       └──────┬──────┘       └─────────────┘
                              │
